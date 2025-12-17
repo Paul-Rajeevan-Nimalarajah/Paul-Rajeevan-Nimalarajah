@@ -48,7 +48,10 @@ I am interested in **invention and innovation**, and I plan to **write code and 
 **Languages**
 - Python
 - Kotlin
-
+- HTML
+- CSS
+- PHP
+- SQL
 ---
 
 ## 🧪 Projects
