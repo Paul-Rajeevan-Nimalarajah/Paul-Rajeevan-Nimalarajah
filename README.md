@@ -19,13 +19,13 @@ I am interested in **invention and innovation**, and I plan to **write code and 
 - 📱 Android app development (primary focus)
 - 🧩 Learning system-level concepts
 - 🛠️ Building real-world projects
+- 💻 Website development
+- 🧩 Chrome extension development
 
 ---
 
 ## 🌱 Future Learning Goals
 
-- 💻 Website development
-- 🧩 Chrome extension development
 - ⚙️ Operating System development
 - 🪟 Windows app development
 - 🍎 iOS app development
@@ -61,6 +61,9 @@ I am interested in **invention and innovation**, and I plan to **write code and 
 
 - 🎥 **YouTube Upload Date & Time Extension**  
   Chrome extension to show exact video upload date & time
+
+- ⏰️ ALS Alarm
+  
 
 > More projects coming soon…
 
