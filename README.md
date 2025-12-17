@@ -63,7 +63,7 @@ I am interested in **invention and innovation**, and I plan to **write code and 
   Chrome extension to show exact video upload date & time
 
 - ⏰️ ALS Alarm
-  
+  Smart alarm app that dismisses based on ambient light with custom sounds, vibration, and daily repeats.
 
 > More projects coming soon…
 
