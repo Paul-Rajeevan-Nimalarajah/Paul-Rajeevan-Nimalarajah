@@ -1,6 +1,6 @@
 # Hi, I'm Paul Rajeevan 👋
 
-🎓 Student Developer | 📱 Android & Web Developer  
+🎓 Student Developer 
 📍 Sri Lanka
 
 ---
