@@ -26,8 +26,7 @@ I am interested in **invention and innovation**, and I aim to **develop tools an
 
 ## 🌱 Future Learning Goals
 
-- ⚙️ Operating System development  
-- 🪟 Windows & desktop app development  
+- ⚙️ Operating System development    
 - 🍎 iOS app development  
 - 🤖 AI development  
 - 🔍 Search engine development  
