@@ -1,10 +1,5 @@
 # Hi, I'm Paul Rajeevan 👋
 
-![GitHub followers](https://img.shields.io/github/followers/paulrajeevan?style=social)
-![GitHub stars](https://img.shields.io/github/stars/paulrajeevan?style=social)
-![GitHub repo count](https://img.shields.io/github/repos/paulrajeevan)
-![GitHub top language](https://img.shields.io/github/languages/top/paulrajeevan)
-
 🎓 Student Developer | 📱 Android & Web Developer  
 📍 Sri Lanka
 
