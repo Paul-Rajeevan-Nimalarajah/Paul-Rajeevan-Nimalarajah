@@ -17,10 +17,10 @@ I am interested in **invention and innovation**, and I aim to **develop tools an
 ## 🔥 Current Focus & Activity
 
 - 📱 Android & mobile app development  
-- 💻 Web app development (e.g., [paulrajeevan.com](https://paulrajeevan.com))  
+- 💻 Web app development   
 - 🧩 Chrome extension development  
 - 🛠️ Desktop apps (e.g., **One Click Git Push**)  
-- 🧪 Building practical tools for learning and productivity  
+- 🧪 Building practical tools for learning and productivity ([paulrajeevan.com](https://paulrajeevan.com))
 
 ---
 
@@ -44,30 +44,14 @@ I am interested in **invention and innovation**, and I aim to **develop tools an
 
 ---
 
-## 🧰 Tech Stack
-
-**Languages & Tools:**  
-- Python 🐍  
-- Kotlin 💜  
-- HTML & CSS 🌐  
-- JavaScript & Node.js ⚡  
-- PHP 🐘  
-- SQL 🗄️  
-- Git & GitHub 🛠️  
-- Linux & system-level tools 🖥️  
-
----
-
 ## 🧪 Projects
 
 | Project | Type | Description |
 |---------|------|-------------|
-| 🔥 [HotspotController](#) | Android App | Control hotspot devices on rooted Android using iptables |
-| 🌐 [NetworkController](#) | Android App | Block or allow internet per app on rooted Android devices |
 | ⏰ [ALS Alarm](#) | Android App | Smart alarm app that dismisses based on ambient light with custom sounds and vibration |
-| 🎥 [YouTube Upload Date & Time Extension](#) | Chrome Extension | Shows exact upload date & time for YouTube videos |
-| 💻 [One Click Git Push](#) | Desktop App | Push your code to GitHub in one click without using the terminal |
-| 🌐 [paulrajeevan.com](https://paulrajeevan.com) | Web App | Web-based learning platform with games and interactive tools |
+| 🎥 [YouTube Upload Date & Time Extension](https://chromewebstore.google.com/detail/kjlopfcejbekiopbgaahaknncokplikk?utm_source=item-share-cb) | Chrome Extension | Shows exact upload date & time for YouTube videos |
+| 💻 [One Click Git Push](https://www.paulrajeevan.com/shop/one-click-git-push) | Desktop App | Push your code to GitHub in one click without using the terminal |
+| 🌐 [paulrajeevan.com](https://paulrajeevan.com) | Web App | Blog, learning platform, and shop for my tools and apps |
 | 🧩 Word Guessing Game | Web App | Educational game with purchasable word packs (planned for [paulrajeevan.com](https://paulrajeevan.com)) |
 
 > More projects coming soon…
