@@ -1,6 +1,6 @@
 # Hi, I'm Paul Rajeevan 👋
 
-🎓 Student Developer 
+🎓 Software Developer 
 📍 Sri Lanka
 
 ---
