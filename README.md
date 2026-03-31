@@ -26,7 +26,7 @@ Using **Antigravity IDE**, I transform complex ideas into fluid user experiences
 | Layer          | Tools                                   |
 | -------------- | --------------------------------------- |
 | **Frameworks** | Next.js (App Router), Flutter, React    |
-| **Languages**  | TypeScript, Dart, JavaScript            |
+| **Languages**  | TypeScript, Dart, JavaScript, Python    |
 | **Styling**    | Tailwind CSS, Vanilla CSS               |
 | **Backend**    | Supabase (PostgreSQL), Firebase         |
 | **AI & Cloud** | Gemini, GPT, Cloudflare, Vercel, Resend |
@@ -35,13 +35,14 @@ Using **Antigravity IDE**, I transform complex ideas into fluid user experiences
 
 ---
 
-## 🧪 Projects
+## 🧪 Projects & Repositories
 
 | Project                                                                                                                             | Type              | Description                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- |
-| ⏰ [ALS Alarm](https://github.com/Paul-Rajeevan-Nimalarajah)                                                                        | Flutter / Android | Smart alarm app that dismisses based on ambient light with custom sounds and vibration |
-| 🎥 [YouTube Upload Date & Time](https://chromewebstore.google.com/detail/kjlopfcejbekiopbgaahaknncokplikk?utm_source=item-share-cb) | Chrome Extension  | Shows exact upload date & time for YouTube videos                                      |
-| 💻 [One Click Git Push](https://www.paulrajeevan.com/shop/one-click-git-push)                                                       | Desktop App       | Push your code to GitHub in one click — no terminal needed                             |
+| 📚 [AL-ICT Notes Hub](https://github.com/Paul-Rajeevan-Nimalarajah/AL-ICT)                                                          | Web App           | Educational resource dedicated to Sri Lankan A/L students for Tamil Medium ICT notes   |
+| 📝 [BlogSummary](https://github.com/Paul-Rajeevan-Nimalarajah/BlogSummary)                                                          | Python Script     | Python-based tool to generate concise summaries from blog articles                     |
+| ▶️ [YouTubeSummary](https://github.com/Paul-Rajeevan-Nimalarajah/YouTubeSummary)                                                    | Python Script     | Utility to collect and generate summaries from YouTube videos                          |
+| 🔡 [Words-Collector](https://github.com/Paul-Rajeevan-Nimalarajah/Words-Collector)                                                  | Python Script     | Python-based word collection and management tool                                       |
 | 🌐 [paulrajeevan.com](https://paulrajeevan.com)                                                                                     | Next.js Web App   | Personal brand site with blog, premium shop, and contact — built with Vibe Coding      |
 
 > More projects coming soon…
