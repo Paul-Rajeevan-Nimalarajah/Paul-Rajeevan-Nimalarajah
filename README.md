@@ -43,6 +43,7 @@ Using **Antigravity IDE**, I transform complex ideas into fluid user experiences
 | 📝 [BlogSummary](https://github.com/Paul-Rajeevan-Nimalarajah/BlogSummary)                                                          | Python Script     | Python-based tool to generate concise summaries from blog articles                     |
 | ▶️ [YouTubeSummary](https://github.com/Paul-Rajeevan-Nimalarajah/YouTubeSummary)                                                    | Python Script     | Utility to collect and generate summaries from YouTube videos                          |
 | 🔡 [Words-Collector](https://github.com/Paul-Rajeevan-Nimalarajah/Words-Collector)                                                  | Python Script     | Python-based word collection and management tool                                       |
+| 🎥 [YouTube Upload Date & Time](https://chromewebstore.google.com/detail/kjlopfcejbekiopbgaahaknncokplikk?utm_source=item-share-cb) | Chrome Extension  | Shows exact upload date & time for YouTube videos                                      |
 | 🌐 [paulrajeevan.com](https://paulrajeevan.com)                                                                                     | Next.js Web App   | Personal brand site with blog, premium shop, and contact — built with Vibe Coding      |
 
 > More projects coming soon…
