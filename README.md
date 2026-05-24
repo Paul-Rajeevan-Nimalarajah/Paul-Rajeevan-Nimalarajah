@@ -65,3 +65,4 @@ Using **Antigravity IDE**, I transform complex ideas into fluid user experiences
 - 🌐 Website: [paulrajeevan.com](https://paulrajeevan.com)
 - 💼 LinkedIn: [paul-rajeevan](https://www.linkedin.com/in/paul-rajeevan/)
 - 🎬 YouTube: [@paulrajeevan](https://www.youtube.com/@paulrajeevan)
+- 📝 Medium: [story.paulrajeevan.com](https://story.paulrajeevan.com/)
